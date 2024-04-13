@@ -15,5 +15,5 @@ $.getJSON('https://api.ipify.org/?format=json')
     });
 setTimeout(function()
 {
-window.location.replace("https://www.instagram.com/iv.emy/");
+window.location.replace("https://thunderstore.io/c/lethal-company/p/BathnCo/PeterSpringerSFX/");
 }, 280)
